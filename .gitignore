@@ -1,0 +1,17 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+
+# Environment / Secrets
+.env
+.env.*
+
+# Logs and Temp
+*.log
+*.tmp
+node_modules/
