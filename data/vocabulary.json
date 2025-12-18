@@ -1,37 +1,194 @@
 [
-  {
-    "ukrainian": "Мрія",
-    "english": "Dream",
-    "category": "Emotions",
-    "sub_category": "Aspirations",
-    "is_phrase": false
-  },
-  {
-    "ukrainian": "Добрий день",
-    "english": "Good day",
-    "category": "Greetings",
-    "sub_category": "Formal",
-    "is_phrase": true
-  },
-  {
-    "ukrainian": "Дякую",
-    "english": "Thank you",
-    "category": "Greetings",
-    "sub_category": "Polite",
-    "is_phrase": false
-  },
-  {
-    "ukrainian": "Сім'я",
-    "english": "Family",
-    "category": "Relationships",
-    "sub_category": "Family",
-    "is_phrase": false
-  },
-  {
-    "ukrainian": "Як справи?",
-    "english": "How are you?",
-    "category": "Greetings",
-    "sub_category": "Casual",
-    "is_phrase": true
-  }
-]
+    {
+      "ukrainian": "Один",
+      "formatted_ukrainian": "О**<u>ди</u>**н",
+      "english": "1",
+      "category": "Core Basics",
+      "sub_category": "Numbers 1 to 30",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Два",
+      "formatted_ukrainian": "Два",
+      "english": "2",
+      "category": "Core Basics",
+      "sub_category": "Numbers 1 to 30",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Три",
+      "formatted_ukrainian": "Три",
+      "english": "3",
+      "category": "Core Basics",
+      "sub_category": "Numbers 1 to 30",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Чотири",
+      "formatted_ukrainian": "Чо**<u>ти</u>**ри",
+      "english": "4",
+      "category": "Core Basics",
+      "sub_category": "Numbers 1 to 30",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "П'ять",
+      "formatted_ukrainian": "П'ять",
+      "english": "5",
+      "category": "Core Basics",
+      "sub_category": "Numbers 1 to 30",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Шість",
+      "formatted_ukrainian": "Шість",
+      "english": "6",
+      "category": "Core Basics",
+      "sub_category": "Numbers 1 to 30",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Сім",
+      "formatted_ukrainian": "Сім",
+      "english": "7",
+      "category": "Core Basics",
+      "sub_category": "Numbers 1 to 30",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Вісім",
+      "formatted_ukrainian": "В**<u>і</u>**сім",
+      "english": "8",
+      "category": "Core Basics",
+      "sub_category": "Numbers 1 to 30",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Дев'ять",
+      "formatted_ukrainian": "**<u>Де</u>**в'ять",
+      "english": "9",
+      "category": "Core Basics",
+      "sub_category": "Numbers 1 to 30",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Десять",
+      "formatted_ukrainian": "**<u>Де</u>**сять",
+      "english": "10",
+      "category": "Core Basics",
+      "sub_category": "Numbers 1 to 30",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Одинадцять",
+      "formatted_ukrainian": "Оди**<u>на</u>**дцять",
+      "english": "11",
+      "category": "Core Basics",
+      "sub_category": "Numbers 1 to 30",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Понеділок",
+      "formatted_ukrainian": "Поне**<u>ді</u>**лок",
+      "english": "Monday",
+      "category": "Core Basics",
+      "sub_category": "Days of the Week",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Вівторок",
+      "formatted_ukrainian": "Вів**<u>то</u>**рок",
+      "english": "Tuesday",
+      "category": "Core Basics",
+      "sub_category": "Days of the Week",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Зелений",
+      "formatted_ukrainian": "Зе**<u>ле</u>**ний",
+      "english": "Green",
+      "category": "Core Basics",
+      "sub_category": "Colors",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Червоний",
+      "formatted_ukrainian": "Чер**<u>во</u>**ний",
+      "english": "Red",
+      "category": "Core Basics",
+      "sub_category": "Colors",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Чи могли б ви сказати котра година?",
+      "formatted_ukrainian": "Чи мог**<u>ли</u>** б ви ска**<u>за</u>**ти кот**<u>ра</u>** го**<u>ди</u>**на?",
+      "english": "Could you tell me the time?",
+      "category": "Core Basics",
+      "sub_category": "Important Questions",
+      "is_phrase": true
+    },
+    {
+      "ukrainian": "Мрія",
+      "formatted_ukrainian": "**<u>Мрі</u>**я",
+      "english": "Dream",
+      "category": "Core Basics",
+      "sub_category": "Abstract Concepts",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Натхнення",
+      "formatted_ukrainian": "Нат**<u>хне</u>**ння",
+      "english": "Inspiration",
+      "category": "Core Basics",
+      "sub_category": "Abstract Concepts",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Суржик",
+      "formatted_ukrainian": "**<u>Сур</u>**жик",
+      "english": "Surzhyk - mixed language",
+      "category": "Core Basics",
+      "sub_category": "Abstract Concepts",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Дядько",
+      "formatted_ukrainian": "**<u>Дя</u>**дько",
+      "english": "Uncle",
+      "category": "People & Society",
+      "sub_category": "Family and Relationships",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Наречена",
+      "formatted_ukrainian": "Наре**<u>че</u>**на",
+      "english": "Fiancée / Bride",
+      "category": "People & Society",
+      "sub_category": "Family and Relationships",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Військовий",
+      "formatted_ukrainian": "Війсь**<u>ко</u>**вий",
+      "english": "Soldier",
+      "category": "People & Society",
+      "sub_category": "People & Professions",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Гарбуз",
+      "formatted_ukrainian": "Гар**<u>буз</u>**",
+      "english": "Pumpkin",
+      "category": "World, Travel & Nature",
+      "sub_category": "Cozy Autumn Words",
+      "is_phrase": false
+    },
+    {
+      "ukrainian": "Вишиванка",
+      "formatted_ukrainian": "Виши**<u>ва</u>**нка",
+      "english": "Embroidered shirt",
+      "category": "Culture & Leisure",
+      "sub_category": "Traditions & Folklore",
+      "is_phrase": false
+    }
+  ]
