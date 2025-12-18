@@ -1,0 +1,37 @@
+[
+  {
+    "ukrainian": "Мрія",
+    "english": "Dream",
+    "category": "Emotions",
+    "sub_category": "Aspirations",
+    "is_phrase": false
+  },
+  {
+    "ukrainian": "Добрий день",
+    "english": "Good day",
+    "category": "Greetings",
+    "sub_category": "Formal",
+    "is_phrase": true
+  },
+  {
+    "ukrainian": "Дякую",
+    "english": "Thank you",
+    "category": "Greetings",
+    "sub_category": "Polite",
+    "is_phrase": false
+  },
+  {
+    "ukrainian": "Сім'я",
+    "english": "Family",
+    "category": "Relationships",
+    "sub_category": "Family",
+    "is_phrase": false
+  },
+  {
+    "ukrainian": "Як справи?",
+    "english": "How are you?",
+    "category": "Greetings",
+    "sub_category": "Casual",
+    "is_phrase": true
+  }
+]
